@@ -3,6 +3,7 @@ package Problems
 /**
   * Created by parshah on 19-Jul-16.
   */
+//SOLVED
 /*
 Devu has an array A consisting of N positive integers. He would like to perform following operation on array.
 

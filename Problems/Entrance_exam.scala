@@ -3,6 +3,7 @@ package Problems
 /**
   * Created by parshah on 19-Jul-16.
   */
+//SOLVED
 /*
 The faculty of application management and consulting services (FAMCS) of the Berland State University (BSU) has always
 been popular among Berland's enrollees. This year, N students attended the entrance exams, but no more than K will enter
