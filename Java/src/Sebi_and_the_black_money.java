@@ -118,7 +118,7 @@ public class Sebi_and_the_black_money {
             Integer W[] = intToArrayOfDigits(encryptedName);
             int[] initialPossiblilities = {20, 10, 30};
             for (int j = 0; j < 3; j++) {
-
+                //TODO solve the problem
             }
         }
     }

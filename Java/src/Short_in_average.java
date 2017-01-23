@@ -86,6 +86,7 @@ public class Short_in_average {
                 addNodeToGraph(graph, x, y, z);
                 addNodeToGraph(graph, y, x, z);
             }
+            //TODO solve the problem
         }
     }
 
